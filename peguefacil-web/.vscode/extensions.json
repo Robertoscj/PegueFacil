@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "christian-kohler.path-intellisense",
+    "naumovs.color-highlight",
+    "mikestead.dotenv",
+    "eamodio.gitlens",
+    "pkief.material-icon-theme",
+    "ms-vscode.vscode-typescript-next"
+  ]
+} 

@@ -1,0 +1,6 @@
+@PegueFacilPay.Api_HostAddress = http://localhost:5058
+
+GET {{PegueFacilPay.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
